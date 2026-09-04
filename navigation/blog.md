@@ -1,6 +1,6 @@
 ---
 layout: blogs 
-title: Blogs
+title: Why Them?
 search_exclude: true
 permalink: /blogs/
 ---

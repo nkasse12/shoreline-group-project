@@ -61,6 +61,7 @@ This combination, which meets the needs of not only housing, but employment- is 
 - Selecting the "volunteer" option shows a homelessness hotspot map.
 - The map highlights the most concentrated homeless areas and the places most in need of volunteers.
 - This directs volunteers to places of greater need instead of just random centers.
+- Automates the volunteer process - instead of a human physically having to contact a volunteer about location and time, the computer can do it for the volunteer on its own. 
 
 </div>
 <div style="flex: 1; min-width: 250px;">
@@ -87,7 +88,9 @@ This combination, which meets the needs of not only housing, but employment- is 
 <div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Donations Page**
-- Currently, the only way to donate is through an Instagram link in their bio.
+
+Currently, the only way to donate is through an Instagram link in their bio.
+
 - Adding a donation page to the website makes it easier for people to contribute.
 - Donation amounts don't have to be random numbers.
 - Messages like "$50 = 1 meal + supplies" and "$200 = 1 night hotel stay" help donors see the impact their money may be making.
@@ -100,7 +103,9 @@ This combination, which meets the needs of not only housing, but employment- is 
 </div>
 
 **Needs Right Now Page**
-- Money doesn't have to be the only thing people can donate.
+
+Money doesn't have to be the only thing people can donate.
+
 - A "needs right now" page opens the door to more donation opportunities, since not everyone can afford to donate money.
 - Most people who are comfortably settled can afford to donate items like toys, old clothes, and even food.
 - This page shows which objects are most needed by people in nearby homeless shelters.

@@ -7,7 +7,14 @@ show_reading_time: false
 
 ### What Do They Do?
 
-PLACEHOLDER: add "what do they do" paragraph here.
+Shoreline Community Services (shorelinecs.org) is a San Diego nonprofit (Pacific Beach/Central Beach area) focused on addressing the unmet needs of unsheltered individuals and families in the Central Beach Area of San Diego.
+
+Their main programs:
+
+- **The Compass Station** — a drop-in resource center for unhoused individuals to receive services needed to begin their journey off of the street.
+- **Volunteer Community Outreach** — a team of trained volunteers that meet unsheltered individuals where they are, building relationships, trust and support.
+- **Medical Respite Hotel Program** — for medically fragile individuals recovering after a hospital stay.
+- **Community Care Crew** — a transitional employment program for unhoused individuals including paid work, case management, career counseling and temporary workforce housing.
 
 ### Why Them?
 

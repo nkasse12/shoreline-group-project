@@ -41,7 +41,7 @@ This combination, which meets the needs of not only housing, but employment- is 
 ### What We Want to Add to Improve Their Site
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Homelessness Hotspot**
 - Selecting the "volunteer" option shows a homelessness hotspot map.
@@ -58,7 +58,7 @@ This combination, which meets the needs of not only housing, but employment- is 
   <div style="flex: 1; min-width: 250px;">
     <img src="{{ site.baseurl }}/images/volunteer-shifts.png" alt="Volunteer shift calendar" style="width: 250px; max-width: 100%; border-radius: 8px;">
   </div>
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Volunteer Shift Calendar**
 - Volunteers can see which shift slots have already been taken instead of being contacted by a team member.
@@ -70,7 +70,7 @@ This combination, which meets the needs of not only housing, but employment- is 
 *Homelessness Hotspot and Volunteer Shift Calendar can go together to create one combined idea.*
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Donations Page**
 - Currently, the only way to donate is through an Instagram link in their bio.
@@ -103,7 +103,7 @@ This combination, which meets the needs of not only housing, but employment- is 
   <div style="flex: 1; min-width: 250px;">
     <img src="{{ site.baseurl }}/images/dashboard-example.webp" alt="Dashboard example" style="width: 250px; max-width: 100%; border-radius: 8px;">
   </div>
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Dashboard (Impact Made)**
 - A dashboard shows stats on how much impact was made over a time interval the viewer can select (Last 30 days, Last week, and so on).

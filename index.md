@@ -41,36 +41,36 @@ This combination, which meets the needs of not only housing, but employment- is 
 ### What We Want to Add to Improve Their Site
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;" markdown="1">
+<div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Homelessness Hotspot**
 - Selecting the "volunteer" option shows a homelessness hotspot map.
 - The map highlights the most concentrated homeless areas and the places most in need of volunteers.
 - This directs volunteers to places of greater need instead of just random centers.
 
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <img src="{{ site.baseurl }}/images/hotspot-map.png" alt="Homelessness hotspot map" style="width: 250px; max-width: 100%; border-radius: 8px;">
-  </div>
+</div>
+<div style="flex: 1; min-width: 250px;">
+<img src="{{ site.baseurl }}/images/hotspot-map.png" alt="Homelessness hotspot map" style="width: 250px; max-width: 100%; border-radius: 8px;">
+</div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    <img src="{{ site.baseurl }}/images/volunteer-shifts.png" alt="Volunteer shift calendar" style="width: 250px; max-width: 100%; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; min-width: 250px;" markdown="1">
+<div style="flex: 1; min-width: 250px;">
+<img src="{{ site.baseurl }}/images/volunteer-shifts.png" alt="Volunteer shift calendar" style="width: 250px; max-width: 100%; border-radius: 8px;">
+</div>
+<div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Volunteer Shift Calendar**
 - Volunteers can see which shift slots have already been taken instead of being contacted by a team member.
 - Fewer available spots create urgency, encouraging more people to sign up for that specific time slot.
 
-  </div>
+</div>
 </div>
 
 *Homelessness Hotspot and Volunteer Shift Calendar can go together to create one combined idea.*
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;" markdown="1">
+<div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Donations Page**
 - Currently, the only way to donate is through an Instagram link in their bio.
@@ -79,10 +79,10 @@ This combination, which meets the needs of not only housing, but employment- is 
 - Messages like "$50 = 1 meal + supplies" and "$200 = 1 night hotel stay" help donors see the impact their money may be making.
 - This makes donors want to contribute more to the cause.
 
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <img src="{{ site.baseurl }}/images/donation-page.png" alt="Donations page" style="width: 250px; max-width: 100%; border-radius: 8px;">
-  </div>
+</div>
+<div style="flex: 1; min-width: 250px;">
+<img src="{{ site.baseurl }}/images/donation-page.png" alt="Donations page" style="width: 250px; max-width: 100%; border-radius: 8px;">
+</div>
 </div>
 
 **Needs Right Now Page**
@@ -100,15 +100,15 @@ This combination, which meets the needs of not only housing, but employment- is 
 - For extra support, they can scroll down to find the outreach team's contact information with detailed instructions on how to contact them.
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    <img src="{{ site.baseurl }}/images/dashboard-example.webp" alt="Dashboard example" style="width: 250px; max-width: 100%; border-radius: 8px;">
-  </div>
-  <div style="flex: 1; min-width: 250px;" markdown="1">
+<div style="flex: 1; min-width: 250px;">
+<img src="{{ site.baseurl }}/images/dashboard-example.webp" alt="Dashboard example" style="width: 250px; max-width: 100%; border-radius: 8px;">
+</div>
+<div style="flex: 1; min-width: 250px;" markdown="1">
 
 **Dashboard (Impact Made)**
 - A dashboard shows stats on how much impact was made over a time interval the viewer can select (Last 30 days, Last week, and so on).
 - A graph feature shows how many people they've helped over the last year or so.
 - This shows the impact made by the non-profit rather than just stating random programs.
 
-  </div>
+</div>
 </div>

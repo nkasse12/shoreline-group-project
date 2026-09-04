@@ -5,7 +5,9 @@ hide: true
 show_reading_time: false
 ---
 
-![Shoreline Community Services logo]({{ site.baseurl }}/images/logo1.jpeg)
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/images/logo1.jpeg" alt="Shoreline Community Services logo" style="width: 200px; max-width: 100%; border-radius: 8px;">
+</div>
 
 ### What Do They Do?
 
@@ -18,7 +20,9 @@ Their main programs:
 - **Medical Respite Hotel Program** — for medically fragile individuals recovering after a hospital stay.
 - **Community Care Crew** — a transitional employment program for unhoused individuals including paid work, case management, career counseling and temporary workforce housing.
 
-![People]({{ site.baseurl }}/images/people.jpeg)
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/images/people.jpeg" alt="People" style="width: 200px; max-width: 100%; border-radius: 8px;">
+</div>
 
 ### Why Them?
 
@@ -30,7 +34,9 @@ We chose Shoreline Community Services because it is a nonprofit that directly ad
 
 This combination, which meets the needs of not only housing, but employment- is exaclty the type of impact we want to support. While also being influental, they are also locally rooted and already work with many partners arouhd San Diego. So instead of our efforts being something that would not have much of an effect, it would help add on to their cause as well as something bigger.
 
-![Shelters]({{ site.baseurl }}/images/shelters.webp)
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/images/shelters.webp" alt="Shelters" style="width: 200px; max-width: 100%; border-radius: 8px;">
+</div>
 
 ### What We Want to Add to Improve Their Site
 
@@ -44,13 +50,13 @@ This combination, which meets the needs of not only housing, but employment- is 
 
   </div>
   <div style="flex: 1; min-width: 250px;">
-    <img src="{{ site.baseurl }}/images/hotspot-map.png" alt="Homelessness hotspot map" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/images/hotspot-map.png" alt="Homelessness hotspot map" style="width: 250px; max-width: 100%; border-radius: 8px;">
   </div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="{{ site.baseurl }}/images/volunteer-shifts.png" alt="Volunteer shift calendar" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/images/volunteer-shifts.png" alt="Volunteer shift calendar" style="width: 250px; max-width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px;">
 
@@ -75,7 +81,7 @@ This combination, which meets the needs of not only housing, but employment- is 
 
   </div>
   <div style="flex: 1; min-width: 250px;">
-    <img src="{{ site.baseurl }}/images/donation-page.png" alt="Donations page" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/images/donation-page.png" alt="Donations page" style="width: 250px; max-width: 100%; border-radius: 8px;">
   </div>
 </div>
 
@@ -95,7 +101,7 @@ This combination, which meets the needs of not only housing, but employment- is 
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="{{ site.baseurl }}/images/dashboard-example.webp" alt="Dashboard example" style="max-width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/images/dashboard-example.webp" alt="Dashboard example" style="width: 250px; max-width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 250px;">
 

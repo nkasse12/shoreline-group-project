@@ -5,6 +5,20 @@ hide: true
 show_reading_time: false
 ---
 
+<style>
+.opencs_root {
+  background-color: #EAF4FB !important;
+  padding: 20px;
+  border-radius: 8px;
+}
+.opencs_root, .opencs_root p, .opencs_root li, .opencs_root h1, .opencs_root h2, .opencs_root h3, .opencs_root h4, .opencs_root strong, .opencs_root em {
+  color: #1B3A57 !important;
+}
+.opencs_root a {
+  color: #145DA0 !important;
+}
+</style>
+
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/images/logo1.jpeg" alt="Shoreline Community Services logo" style="width: 200px; max-width: 100%; border-radius: 8px;">
 </div>
